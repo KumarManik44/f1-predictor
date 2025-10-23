@@ -56,7 +56,7 @@ fastf1.Cache.enable_cache('f1_cache')
 
 
 ## 📁 Project Structure
-
+'''
 f1-predictor/
 ├── data/
 │ ├── race_results_2020_2024.csv
@@ -74,7 +74,7 @@ f1-predictor/
 ├── predict_next_race.py # Race winner prediction
 ├── streamlit_app.py # Interactive web application
 └── README.md
-
+'''
 
 ### Training Strategy
 - **Training Data**: 2020-2024 seasons (2,118 records)
